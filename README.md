@@ -8,7 +8,7 @@ Esse foi um projeto desenvolvido durante um evento chamado NLW (Next Level Week)
 # Dia 1
 Apresentação dos conceitos principais do desenvolvimento web. Visão geral das tecnologias HTML5, CSS3 E JAVASCRIPT. E aprofundamento sobre as tags do HTMl e as propriedades do CSS3.
 
-#  :link: Ferramentas usadas
+# Ferramentas usadas
   - HTML5
   - CSS3
 
